@@ -1,0 +1,5 @@
+INSTRUCTIONS:
+1. Rename your college building photo to 'college.jpg'.
+2. Upload both 'index.html' and 'college.jpg' into your GitHub repository (redesigned-system).
+3. Commit the changes.
+4. Refresh your GitHub Pages site to see the updated header with the photo.
